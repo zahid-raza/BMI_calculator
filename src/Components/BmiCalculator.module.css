@@ -1,0 +1,14 @@
+.container {
+  color: white;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: black;
+  border-radius: 8px;
+  width: 400px;
+  height: 320px;
+  
+}
+
+.btn{
+  color: aqua;
+}
